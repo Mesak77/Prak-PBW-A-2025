@@ -20,6 +20,15 @@ Aplikasi ini mencakup implementasi dari beberapa konsep dasar PHP, yaitu:
 <img width="1920" height="1080" alt="Screenshot 2025-09-26 102018" src="https://github.com/user-attachments/assets/fed60b27-5a1d-401b-81be-3ef315c14996" />
 
 **Contoh Pesan Error Validasi**
+## Peringatan Jika Email Tidak Valid
 <img width="1920" height="1080" alt="Screenshot 2025-09-26 102210" src="https://github.com/user-attachments/assets/fc490fc7-fd6f-4196-900a-3d5e37682d91" />
+
+## Peringatan Jika Field yang kosong
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/57656249-a710-44f3-93da-b1cdcd07e9ce" />
+
+## Peringatan Format Tanggal Lahir Yang Tidak Sesuai
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6c84be0-a061-410b-911a-838a3e7549b9" />
+
+
 
 
