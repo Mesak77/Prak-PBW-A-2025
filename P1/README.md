@@ -1,14 +1,14 @@
-# 📂 Laporan Praktikum Pemrograman Berbasis Web (PBW)
+#  Laporan Praktikum Pemrograman Berbasis Web (PBW)
 Semester 5 | Universitas Pancasila
 
-## 👩‍💻 Prak PBW-A 
+##  Prak PBW-A 
 - *Nama*           : Mesak Mychart Elsafan Purba
 - *NPM*            : 4523210062
 - *Dosen Pengampu* : Adi Wahyu Pribadi, S.Si., M.Kom
 
 ---
 
-### 📚 Instalasi Git
+###  Instalasi Git
 
 Unduh installer Git untuk Windows, jalankan, ikuti pengaturan default, dan setelah selesai, buka Command Prompt atau Git Bash, lalu ketik git --version.
 
@@ -26,11 +26,11 @@ Ini dilakukan untuk setiap perubahan yang dibuat di git dapat mengidentifikasika
 
 ---
 
-### 📚 Alur Kerja Dasar Git (Lokal)
+### Alur Kerja Dasar Git (Lokal)
 
 Proses ini memberikan penjelasan tentang alur kerja dasar yang digunakan untuk mengelola proyek perangkat lunak menggunakan Git. Dimulai dengan membuat folder proyek dan menginisialisasi Git, yang memungkinkan Git untuk melacak perubahan proyek. Itu juga membuat file proyek, seperti HTML dan CSS. Setelah itu, gunakan git status untuk memeriksa status perubahan yang dibuat, lalu gunakan git add untuk menambahkannya ke area pengujian. Perubahan kemudian disimpan melalui commit dengan pesan yang menjelaskan perubahan tersebut. Itu dapat membuat branch baru dan melakukan perubahan di dalamnya untuk bekerja dengan fitur baru tanpa mengganggu kode utama. Untuk menerapkan perubahan, gabungkan cabang tersebut ke cabang utama (main).
 
-### 📸 Bukti SS Praktikum
+### Bukti SS Praktikum
 
 
 <img width="889" height="414" alt="Screenshot 2025-09-19 104116" src="https://github.com/user-attachments/assets/d07f1b94-1fbc-41ca-84f0-423485402cef" />
@@ -58,11 +58,11 @@ Proses ini memberikan penjelasan tentang alur kerja dasar yang digunakan untuk m
 
 ---
 
-### 📚 Integrasi dengan GitHub
+### Integrasi dengan GitHub
 
 Proses ini menjelaskan cara menyambungkan proyek local dengan Github. Dengan mempunyai akun github, langsung saja ke proses penambahan repository di GitHub. Ini juga bisa mengontrol file tersebut dengan git dengan memasukkan command git remote add. Intinya fitur ini membuat file masuk di GitHub dan mengontrol/menguploadnya.
 
-### 📸 Bukti SS Praktikum
+### Bukti SS Praktikum
 
 <img width="504" height="184" alt="Screenshot 2025-09-19 105142" src="https://github.com/user-attachments/assets/074400b4-f1c6-4881-8935-3db97dfa3a72" />
 
@@ -71,11 +71,10 @@ Proses ini menjelaskan cara menyambungkan proyek local dengan Github. Dengan mem
 
 ---
 
-### 📚 Workflow Kerja Kelompok di GitHub (Feature Branch Workflow)
-
+### Workflow Kerja Kelompok di GitHub (Feature Branch Workflow
 Proses ini menjelaskan proses tim menggunakan GitHub.  Pertama dan terpenting, salin repositori yang sudah ada.  Setelah itu, pastikan untuk selalu memperbarui branch utama dengan perintah untuk menarik perubahan terbaru. Kemudian, buat branch baru untuk setiap fitur yang dikerjakan, lakukan perubahan, tambahkan file, dan simpan perubahan dengan melakukan commit. Setelah fitur selesai, kirim branch tersebut ke GitHub. Buat pull request untuk menggabungkan perubahan dengan branch utama, isi deskripsi, dan tentukan reviewer untuk memeriksa perubahan tersebut.  Terakhir, pastikan semua tim sinkron dengan mengambil pembaruan terbaru dari branch utama.
 
-### 📸 Bukti SS Praktikum
+### Bukti SS Praktikum
 
 
 <img width="1194" height="865" alt="Screenshot 2025-09-19 111005" src="https://github.com/user-attachments/assets/89d2c70f-0139-4268-9d25-85e313b5c248" />
@@ -92,10 +91,10 @@ Proses ini menjelaskan proses tim menggunakan GitHub.  Pertama dan terpenting, s
 ---
 
 
-### 💡 Kesimpulan
+### Kesimpulan
 
 Seperti yang ditunjukkan oleh pekerjaan ini, Git dan GitHub adalah alat yang sangat penting untuk mengelola proyek perangkat lunak, terutama yang berkaitan dengan kerja tim. Tim dapat bekerja secara terorganisir dan efisien melalui prosedur seperti inisialisasi repositori, pembuatan cabang untuk setiap fitur, dan penggunaan commit dan pull request. Dengan mengintegrasikan GitHub ke dalam proyek lokal, perubahan yang terjadi di setiap komputer dapat disinkronkan dan dikelola dengan baik. Workflow yang jelas, seperti membuat cabang untuk fitur baru, melakukan evaluasi, dan mengintegrasikan perubahan ke cabang utama, memastikan bahwa proyek tetap terstruktur dan tidak konflik, dan memudahkan kerja tim.
 
 
-#Link dengan upload dari git bash (karena Di repo ini P1 upload)
+## Link dengan upload dari git bash (karena Di repo ini P1 upload)
 https://github.com/Mesak77/proyek-web-pertama
