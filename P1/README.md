@@ -95,3 +95,7 @@ Proses ini menjelaskan proses tim menggunakan GitHub.  Pertama dan terpenting, s
 ### 💡 Kesimpulan
 
 Seperti yang ditunjukkan oleh pekerjaan ini, Git dan GitHub adalah alat yang sangat penting untuk mengelola proyek perangkat lunak, terutama yang berkaitan dengan kerja tim. Tim dapat bekerja secara terorganisir dan efisien melalui prosedur seperti inisialisasi repositori, pembuatan cabang untuk setiap fitur, dan penggunaan commit dan pull request. Dengan mengintegrasikan GitHub ke dalam proyek lokal, perubahan yang terjadi di setiap komputer dapat disinkronkan dan dikelola dengan baik. Workflow yang jelas, seperti membuat cabang untuk fitur baru, melakukan evaluasi, dan mengintegrasikan perubahan ke cabang utama, memastikan bahwa proyek tetap terstruktur dan tidak konflik, dan memudahkan kerja tim.
+
+
+#Link dengan upload dari git bash (karena Di repo ini P1 upload)
+https://github.com/Mesak77/proyek-web-pertama
