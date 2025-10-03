@@ -44,7 +44,7 @@ Semester 5 | Universitas Pancasila
 # Isi halaman tersebut dengan informasi kontak fiktif
 <img width="988" height="339" alt="Screenshot 2025-10-03 141333" src="https://github.com/user-attachments/assets/70c8be53-e303-4dde-93a1-b97cef6c28be" />
 
-# tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
+# Tambahkan link navigasi ke dan dari halaman "Kontak" di halaman lainnya.
 <img width="1036" height="541" alt="image" src="https://github.com/user-attachments/assets/c2c62c91-0185-4cbf-8aec-f923093ee801" />
 
 
